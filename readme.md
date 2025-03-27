@@ -56,7 +56,7 @@ npx nodemon
 
 
 
-## Once the servers are running, the chat app can be accessed through the Vibe URL. Swagger documentation is available at:
+## Once the servers are running, the chat app can be accessed through the Vite URL. Swagger documentation is available at:
 
 http://localhost:5000/api-docs
 
