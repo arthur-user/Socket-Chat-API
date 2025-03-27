@@ -61,7 +61,7 @@ npx nodemon
 http://localhost:5000/api-docs
 
 
-#Swagger tests:
+# Swagger tests:
 
 ## User Routes (/api/users)
 POST	/api/users/register	Register a new user
