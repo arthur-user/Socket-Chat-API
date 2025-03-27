@@ -70,11 +70,11 @@ http://localhost:5000/api-docs
 - GET	/api/users/	Get all users
 
 ## Chat Routes (/api/chats)
-POST	/api/chats/	Create a new chat
-GET	/api/chats/:userId	Get all chats for a specific user
-GET	/api/chats/find/:firstId/:secondId	Find an existing chat between two users
+- POST	/api/chats/	Create a new chat
+- GET	/api/chats/:userId	Get all chats for a specific user
+- GET	/api/chats/find/:firstId/:secondId	Find an existing chat between two users
 
 ## Message Routes (/api/messages)
 
-POST	/api/messages/	Send a new message
-GET	/api/messages/:chatId	Get all messages for a specific chat
+- POST	/api/messages/	Send a new message
+- GET	/api/messages/:chatId	Get all messages for a specific chat
