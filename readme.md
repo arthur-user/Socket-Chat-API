@@ -38,17 +38,17 @@ npm install
 
 ### **3. Start the servers and make sure they are simultaneously running**
 
-##Backend:
+## Backend:
 
 cd back-end
 npx nodemon
 
-##Frontend:
+## Frontend:
 
 cd client
 npm run dev
 
-##socket.io
+## socket.io
 
 cd socket.io
 npx nodemon
@@ -63,18 +63,18 @@ http://localhost:5000/api-docs
 
 Swagger tests:
 
-#User Routes (/api/users)
+# User Routes (/api/users)
 POST	/api/users/register	Register a new user
 POST	/api/users/login	Login user
 GET	/api/users/get/:userId	Get a specific user by ID
 GET	/api/users/	Get all users
 
-#Chat Routes (/api/chats)
+# Chat Routes (/api/chats)
 POST	/api/chats/	Create a new chat
 GET	/api/chats/:userId	Get all chats for a specific user
 GET	/api/chats/find/:firstId/:secondId	Find an existing chat between two users
 
-#Message Routes (/api/messages)
+# Message Routes (/api/messages)
 
 POST	/api/messages/	Send a new message
 GET	/api/messages/:chatId	Get all messages for a specific chat
