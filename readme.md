@@ -26,7 +26,7 @@ cd messaging-app
    - **MongoDB Atlas**: Create a free MongoDB cluster on Atlas, create a database, and note down the connection string (this will be used in the next step).
 
    
-You need to enter the ATLAS_URI in the provided the `.env` file located in the **backend** directory.
+You need to enter the ATLAS_URI in the `.env` file located in the **backend** directory.
 
 1. Inside the `back-end` folder, add an `.env` file.
 2. Add the following configuration to your `.env` file:
