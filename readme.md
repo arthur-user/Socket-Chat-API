@@ -28,10 +28,10 @@ cd messaging-app
    
 You need to enter the ATLAS_URI in the provided the `.env` file located in the **backend** directory.
 
-1. Inside the `back-end` folder, edit the `.env` file.
+1. Inside the `back-end` folder, add an `.env` file.
 2. Add the following configuration to your `.env` file:
    ```
-   MONGO_URI=your-database-connection-string
+   ATLAS_URI=your-database-connection-string
    JWT_SECRET=your-jwt-secret-key
 ### **2. Install required dependencies**
 npm install
