@@ -56,7 +56,7 @@ npx nodemon
 
 
 
-## Once the servers is running, Swagger documentation is available at:
+## Once the servers are running, Swagger documentation is available at:
 
 http://localhost:5000/api-docs
 
