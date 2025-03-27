@@ -18,7 +18,7 @@ A real-time chat application built with **React, Socket.io, Node.js, and Express
 
 ### **1. Clone the repository**
 ```sh
-git clone [https://github.com/your-username/messaging-app.git](https://github.com/arthur-user/Socket-Chat-API)
+git clone https://github.com/arthur-user/Socket-Chat-API
 cd messaging-app
 ### **3. Set up the Database**
 
