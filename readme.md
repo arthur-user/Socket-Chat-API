@@ -32,8 +32,8 @@ You need to enter the ATLAS_URI in the `.env` file located in the backend direct
 1. Inside the `back-end` folder, add an `.env` file.
 2. Add the following configuration to your `.env` file:
    ```
-   ATLAS_URI=your-database-connection-string
-   JWT_SECRET=your-jwt-secret-key
+   - ATLAS_URI=your-database-connection-string
+   - JWT_SECRET=your-jwt-secret-key
 ### **2. Install required dependencies**
 npm install
 
