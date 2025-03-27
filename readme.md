@@ -23,7 +23,7 @@ cd messaging-app
 ### **3. Set up the Database**
 
 1. **MongoDB** (using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for cloud DB or a local MongoDB setup):
-   - **MongoDB Atlas**: Create a free MongoDB cluster on Atlas, create a database, and note down the connection string (this will be used in the next step).
+   - __MongoDB Atlas__: Create a free MongoDB cluster on Atlas, create a database, and note down the connection string (this will be used in the next step).
 
    
 You need to enter the ATLAS_URI in the `.env` file located in the **backend** directory.
