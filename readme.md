@@ -64,10 +64,10 @@ http://localhost:5000/api-docs
 # Swagger tests:
 
 ## User Routes (/api/users)
-POST	/api/users/register	Register a new user
-POST	/api/users/login	Login user
-GET	/api/users/get/:userId	Get a specific user by ID
-GET	/api/users/	Get all users
+- POST	/api/users/register	Register a new user
+- POST	/api/users/login	Login user
+- GET	/api/users/get/:userId	Get a specific user by ID
+- GET	/api/users/	Get all users
 
 ## Chat Routes (/api/chats)
 POST	/api/chats/	Create a new chat
