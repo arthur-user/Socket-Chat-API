@@ -12,6 +12,7 @@ A real-time chat application built with **React, Socket.io, Node.js, and Express
 - **Frontend:** React, Context API
 - **Backend:** Node.js, Express, Socket.io
 - **Database:** MongoDB
+- **Documentation:** Swagger
 
 ## Setup ⚙️
 
