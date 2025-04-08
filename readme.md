@@ -80,3 +80,6 @@ http://localhost:5000/api-docs
 
 - POST	/api/messages/	Send a new message
 - GET	/api/messages/:chatId	Get all messages for a specific chat
+
+# Extensions:
+-- **Increase chat capacity**: Allow more than 2 users to chat
