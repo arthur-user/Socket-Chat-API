@@ -3,7 +3,7 @@ const { Server } = require("socket.io"); //server class from socket.io
 // Create an instance of the server with proper CORS configuration
 const io = new Server({
   cors: {
-    origin: "http://localhost:5173", // your frontend URL
+    origin: "http://localhost:5173", // frontend URL
     methods: ["GET", "POST"], // allowed methods
   },
 });
