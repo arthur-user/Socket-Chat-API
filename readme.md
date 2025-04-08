@@ -82,4 +82,4 @@ http://localhost:5000/api-docs
 - GET	/api/messages/:chatId	Get all messages for a specific chat
 
 # Extensions:
--- **Increase chat capacity**: Allow more than 2 users to chat
+- **Increase chat capacity**: Allow more than 2 users to chat
